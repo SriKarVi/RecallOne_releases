@@ -1,7 +1,7 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "download_url": "https://github.com/SriKarVi/RecallOne_releases/releases/download/v1.0.1/RecallOne_Reminder_App_v1.0.1.exe",
-    "sha256": "7fde2325571e9a6f51ad18c5514060c5053ceea5898c46f4bd0f36d09bcfa8e3",
-    "manifest_signature": "MHDy4gfoA2OisJH9zfEKUavaXTwoO0SsCsLcflWWGphmR731w-7nBdxrdEwb5FGA7rhodaJI3qGn-vEnMwcnCg",
-    "release_notes": "Automated release update\n\u2022 Check"
+    "sha256": "48aad04e6d73628b1bbbd5dc8b7d0177a18df3f027ac8454cffb47b85b69bf27",
+    "manifest_signature": "tbp13PPCt95wrZjzGGNLnleEutw6B4L7ubOh9AMJW7MXTOMNW5xMfcoyAkZp9WKCABVjGgmBsHChglpQwNTkDw",
+    "release_notes": "Automated release update\n\u2022 Chumma"
 }
