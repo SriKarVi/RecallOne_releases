@@ -1,7 +1,7 @@
 {
-    "version": "1.0.8",
-    "download_url": "https://github.com/SriKarVi/RecallOne_releases/releases/download/v1.0.8/RecallOne_Reminder_App_v1.0.8.exe",
-    "sha256": "016a8b6b196eed3af2cbc0e0f3c334358337a2e4dc1bdeab0c95b2ca7ab03bbe",
-    "manifest_signature": "zjJhUQt9CAuT_NCSgpOQApwG3NkUgrKviHWSYu_BknmRrLU9NAiqfk2pkdJLtBMyC-1PrYP_5_sm2cjntHcpCw",
+    "version": "1.0.9",
+    "download_url": "https://github.com/SriKarVi/RecallOne_releases/releases/download/v1.0.9/RecallOne_Reminder_App_v1.0.9.exe",
+    "sha256": "be4803abc4c56c0d25f2932b85f5ef4f64988187dad7a23d740d552fe5677b71",
+    "manifest_signature": "DaGwo4IQxzDu5iBodQ_pqpZ_22oOwKabI4JuoPQDu4R9_KQ5PzUKy-36GtNQkGKWZl1Qup5IjAl9Mp60_fpNCQ",
     "release_notes": "Automated release update\n\u2022 "
 }
