@@ -1,7 +1,7 @@
 {
-    "version": "1.0.6",
-    "download_url": "https://github.com/SriKarVi/RecallOne_releases/releases/download/v1.0.6/Expiry_App_Setup_v1.0.6.exe",
-    "sha256": "2830671ca7bad34b3ceb8fa2bea15c2801bc5b1d6d19a63677f0bb578bfa0ee7",
-    "manifest_signature": "WITvrnTdcrXwj8Qy2lFzUs016G4Zhy5MHx8Wy1fwVyEb8TmlWq1kSkp0p5BpQZxay1oDNstdmAxYPRiNxW4RBw",
+    "version": "1.0.7",
+    "download_url": "https://github.com/SriKarVi/RecallOne_releases/releases/download/v1.0.7/Expiry_App_Setup_v1.0.7.exe",
+    "sha256": "2ed1a3141a57782f646528d9ceea568f7fa115eb278e831eb7efb951a582d6ee",
+    "manifest_signature": "o9P62B54ydcTjJVK8O6x2Uxw97bnNoa-AoIdiluL8_d3NtJ9K6kwJLucpWS4i02XxLJRdouOxpkt3hyziDG3CQ",
     "release_notes": "Automated release update\n\u2022 "
 }
